@@ -1,0 +1,9 @@
+whisper
+pydub
+streamlit
+rake-nltk
+spacy
+keybert
+sentence-transformers
+nltk
+ffmpeg-python
